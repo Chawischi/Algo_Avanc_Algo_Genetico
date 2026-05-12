@@ -1,5 +1,8 @@
 # Alunos
-Eric Gabriel Caetano, Felipe da Silva Chawischi, Gabriel Felipe Alves Bnadoch e João Guilherme Tamanini Dalmarco
+Eric Gabriel Caetano
+Felipe da Silva Chawischi
+Gabriel Felipe Alves Bnadoch
+João Guilherme Tamanini Dalmarco
 
 # Algoritmo Genético — Problema da Mochila
 
